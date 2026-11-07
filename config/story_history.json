@@ -1,0 +1,82 @@
+[
+  {
+    "theme": "Starlit Lantern Festival",
+    "question": "Which glow will guide your night?",
+    "locations": [
+      "Moonlit Pavilion",
+      "Lantern-lit Riverbank",
+      "Starlight Cave",
+      "Sky Lantern Plaza"
+    ]
+  },
+  {
+    "theme": "Echoes of the Moonlit Marsh",
+    "question": "Which silver whisper will you chase through the night?",
+    "locations": [
+      "Luminous Lilypad Archipelago",
+      "Fungal Glow Cavern",
+      "Moonlit Tidefall",
+      "Sundown Mirage Oasis"
+    ]
+  },
+  {
+    "theme": "Ashen Aurora",
+    "question": "Which embered secret will ignite your heart?",
+    "locations": [
+      "Crimson Reef",
+      "Subterranean Ember Cavern",
+      "Coastal Cliff of Cinder",
+      "Mountain Sanctuary of Ash"
+    ]
+  },
+  {
+    "theme": "Skyward Bloom",
+    "question": "Which floating garden will your heart choose?",
+    "locations": [
+      "Mistfall Meadow",
+      "Celestial Arch",
+      "Nimbus Reef",
+      "Echoing Grove"
+    ]
+  },
+  {
+    "theme": "Verdant Labyrinth",
+    "question": "Which hidden grove will your wanderlust lead you to?",
+    "locations": [
+      "Sunlit Meadow",
+      "Bioluminescent Thicket",
+      "Mist-Cliff Promontory",
+      "Starlit Cascades"
+    ]
+  },
+  {
+    "theme": "Whispering Winds",
+    "question": "Which breeze will carry your heart to adventure?",
+    "locations": [
+      "Mist Veil Lagoon",
+      "Starlit Grove",
+      "Nimbus Overlook",
+      "Echoing Caves"
+    ]
+  },
+  {
+    "theme": "Ember Veil Odyssey",
+    "question": "Which embered path will you tread?",
+    "locations": [
+      "Crimson Grove",
+      "Amber Cavern",
+      "Molten Falls",
+      "Saffron Peak"
+    ]
+  },
+  {
+    "theme": "Celestial Harvest",
+    "question": "Which starlit orchard will you harvest your heart's desire?",
+    "locations": [
+      "Nebula Orchard",
+      "Aurora Meadow",
+      "Astral Observatory",
+      "Aurora Cliffs"
+    ]
+  }
+]

@@ -1,0 +1,77 @@
+{
+  "theme": "Skyward Bloom",
+  "question": "Which floating garden will your heart choose?",
+  "intro_environment": "A sweeping panorama of a skyward archipelago, islands drifting like lily pads across a sapphire expanse, with wisps of cloud weaving through them. A small couple wanders along a vine‑covered bridge, their silhouettes barely visible against the vastness.",
+  "intro_camera": "Wide landscape camera, low horizon, capturing the breadth of the floating islands.",
+  "intro_couple_action": "The couple strolls hand‑in‑hand, exploring a vine bridge that connects two islands, their tiny figures blending into the horizon.",
+  "choices": [
+    {
+      "title": "Mistfall Meadow",
+      "description": "A floating meadow of luminous mist and wildflowers, the ground a soft, translucent veil that shimmers with every step.",
+      "scene_type": "Flower Meadow",
+      "composition": "Diagonal path of mist leading from foreground to distant horizon, couple positioned off‑center to the left, with a cluster of glowing blossoms framing their rear.",
+      "camera": "Low angle, slightly wide, capturing the mist's depth and the couple's smallness.",
+      "dominant_palette": "Pastel greens, blush pinks, and soft lavender.",
+      "couple_action": "The couple pauses to touch a floating petal, their fingers brushing the air.",
+      "must_show": [
+        "Glowing mist",
+        "Blooming petals",
+        "Vine bridge"
+      ],
+      "avoid": [
+        "Snow"
+      ]
+    },
+    {
+      "title": "Celestial Arch",
+      "description": "A towering stone archway carved from luminous quartz, suspended between two sky islands, its arches glittering with stardust.",
+      "scene_type": "Mountain Sanctuary",
+      "composition": "Vertical composition centered on the arch, with the couple positioned to the right, looking up at the arch's apex.",
+      "camera": "High angle, slightly tilted, emphasizing the arch's height and the couple's smallness.",
+      "dominant_palette": "Muted greys, silver, and twilight blue.",
+      "couple_action": "The couple stands beneath the arch, gazing at the starlit sky reflected in the quartz.",
+      "must_show": [
+        "Quartz arch",
+        "Stardust",
+        "Sky bridge"
+      ],
+      "avoid": [
+        "Red"
+      ]
+    },
+    {
+      "title": "Nimbus Reef",
+      "description": "A reef of floating basalt islands, each teeming with bioluminescent coral that glows against the night sky.",
+      "scene_type": "Coastal Cliff",
+      "composition": "Horizontal layout with a series of islands forming a chain, the couple on the far right island, a tide of luminous water beneath.",
+      "camera": "Eye‑level, slightly wide, capturing the depth of the water and the couple's position on the island.",
+      "dominant_palette": "Deep teal, cobalt blue, and electric green.",
+      "couple_action": "The couple wades through a shallow pool, watching the coral pulse.",
+      "must_show": [
+        "Bioluminescent coral",
+        "Floating basalt",
+        "Luminous tide"
+      ],
+      "avoid": [
+        "Purple"
+      ]
+    },
+    {
+      "title": "Echoing Grove",
+      "description": "A dense forest of crystal‑tinted trees that hum with the echo of distant winds, their trunks shimmering with iridescent light.",
+      "scene_type": "Dense Forest",
+      "composition": "Tight frame of a winding path, the couple in the lower right, surrounded by towering trees that fade into a golden mist.",
+      "camera": "Low angle, wide, focusing on the path and the couple's movement.",
+      "dominant_palette": "Rich forest green, gold, and emerald.",
+      "couple_action": "The couple follows a glowing path, their footsteps leaving faint sparkles.",
+      "must_show": [
+        "Crystal trees",
+        "Golden mist",
+        "Glowing path"
+      ],
+      "avoid": [
+        "Orange"
+      ]
+    }
+  ]
+}

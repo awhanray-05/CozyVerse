@@ -1,0 +1,81 @@
+{
+  "theme": "Ashen Aurora",
+  "question": "Which embered secret will ignite your heart?",
+  "intro_environment": "A sprawling twilight vista where glowing embers drift across a crimson sky, stretching to horizons of distant cinder peaks.",
+  "intro_camera": "A sweeping panoramic shot from a high cliff, capturing the entire embered realm in a wide-angle frame.",
+  "intro_couple_action": "The couple, a curious pair of travelers, wander across the glowing dunes, their silhouettes barely visible against the fiery sky.",
+  "choices": [
+    {
+      "title": "Crimson Reef",
+      "description": "A vast, open lake of molten glass, reflecting the embered stars and bordered by jagged obsidian cliffs.",
+      "scene_type": "Open lake",
+      "composition": "Horizontal horizon with a wide foreground of shimmering water, couple off-center in the middle distance.",
+      "camera": "Wide-angle low angle looking slightly upward to emphasize the expansive sky.",
+      "dominant_palette": "Fiery reds, orange, and molten gold.",
+      "couple_action": "The couple stands at the water's edge, gazing into the glowing depths.",
+      "must_show": [
+        "Molten glass reflections",
+        "Jagged obsidian cliffs",
+        "Flickering embered stars"
+      ],
+      "avoid": [
+        "Snow",
+        "cobblestone"
+      ]
+    },
+    {
+      "title": "Subterranean Ember Cavern",
+      "description": "A deep underground cavern lit by bioluminescent fungi, with stalagmites shaped like twisted roots and a river of liquid crystal.",
+      "scene_type": "Underground cavern",
+      "composition": "Vertical composition with a central path leading into the darkness, couple positioned near a glowing stalactite.",
+      "camera": "Medium shot from a slightly elevated angle, focusing on the couple and the luminous fungi.",
+      "dominant_palette": "Deep blues and electric greens.",
+      "couple_action": "The couple is crouching, following a trail of glowing fungi.",
+      "must_show": [
+        "Bioluminescent fungi",
+        "Liquid crystal river",
+        "Stalagmites"
+      ],
+      "avoid": [
+        "cobblestone",
+        "snow"
+      ]
+    },
+    {
+      "title": "Coastal Cliff of Cinder",
+      "description": "A towering cliff of blackened stone overlooking a sea of ash, with wind-whipped ash dunes and a lighthouse made of obsidian.",
+      "scene_type": "Coastal cliff",
+      "composition": "Rule of thirds with the cliff edge on the right, couple standing near the ledge, distant ash sea below.",
+      "camera": "Wide shot from a low angle, capturing the cliff's height and the couple's smallness.",
+      "dominant_palette": "Dark greys, ash whites, and hints of amber.",
+      "couple_action": "The couple holds a lantern, casting a warm glow on the cliff face.",
+      "must_show": [
+        "Blackened stone cliff",
+        "Ash sea",
+        "Obsidian lighthouse"
+      ],
+      "avoid": [
+        "cobblestone",
+        "snow"
+      ]
+    },
+    {
+      "title": "Mountain Sanctuary of Ash",
+      "description": "A secluded mountain peak covered in ash forests, with a crystal clear lake reflecting the aurora, and ancient stone monoliths.",
+      "scene_type": "Mountain sanctuary",
+      "composition": "Diagonal lines leading from the foreground monoliths to the distant lake, couple positioned near the monolith.",
+      "camera": "Panoramic sweep capturing the peak and the lake.",
+      "dominant_palette": "Soft greys, silvery blues, and pale amber.",
+      "couple_action": "The couple is seated on a stone, watching the aurora dance across the lake.",
+      "must_show": [
+        "Ash forest",
+        "Crystal lake",
+        "Stone monoliths"
+      ],
+      "avoid": [
+        "snow",
+        "cobblestone"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "theme": "Verdant Labyrinth",
+  "question": "Which hidden grove will your wanderlust lead you to?",
+  "intro_environment": "A vast, ancient forest stretches to the horizon, its towering emerald canopy interspersed with golden sunbeams. The mist rolls softly over moss-covered stone paths, hinting at forgotten secrets.",
+  "intro_camera": "Wide landscape",
+  "intro_couple_action": "The couple strolls along a narrow, winding trail, their silhouettes small against the grand trees, eyes wide with wonder.",
+  "choices": [
+    {
+      "title": "Sunlit Meadow",
+      "description": "A wide, open meadow bathed in early morning light, dotted with wildflowers and a solitary stone archway half buried in vines.",
+      "scene_type": "Flower meadow",
+      "composition": "Wide panoramic with a central archway framing the foreground, leading the eye into the distance.",
+      "camera": "Wide landscape",
+      "dominant_palette": "Earthy greens, soft golds, and pale sky blues",
+      "couple_action": "The couple pauses beside the archway, sharing a quiet laugh as they trace the carvings.",
+      "must_show": [
+        "Stone archway",
+        "Wildflower patch",
+        "Morning mist"
+      ],
+      "avoid": [
+        "Modern signage"
+      ]
+    },
+    {
+      "title": "Bioluminescent Thicket",
+      "description": "A dense thicket of towering ferns and luminous fungi, their gentle glow lighting a hidden path that curls through the undergrowth.",
+      "scene_type": "Dense forest",
+      "composition": "Vertical split with the glow illuminating the left side, while the right side remains shrouded in shadow.",
+      "camera": "Low-angle",
+      "dominant_palette": "Deep greens, vibrant teal, and soft amber highlights",
+      "couple_action": "The couple moves cautiously, their lanterns flickering, as they navigate the glowing vines.",
+      "must_show": [
+        "Luminous fungi",
+        "Shimmering vines",
+        "Hidden path"
+      ],
+      "avoid": [
+        "Stone ruins"
+      ]
+    },
+    {
+      "title": "Mist-Cliff Promontory",
+      "description": "A towering cliff overlooking a mist-laden sea, with a narrow ledge that offers a breathtaking view of the horizon.",
+      "scene_type": "Coastal cliff",
+      "composition": "High-angle shot capturing the cliff's sheer drop and the mist curling at its base.",
+      "camera": "High-angle",
+      "dominant_palette": "Cool greys, muted blues, and seafoam green",
+      "couple_action": "The couple stands on the ledge, hand in hand, watching the waves crash below.",
+      "must_show": [
+        "Cliff ledge",
+        "Misty sea",
+        "Sunset glow"
+      ],
+      "avoid": [
+        "Wind turbines"
+      ]
+    },
+    {
+      "title": "Starlit Cascades",
+      "description": "A cascading waterfall that pours into a crystal-clear pool, with star-like reflections dancing on the water's surface during twilight.",
+      "scene_type": "Waterfall",
+      "composition": "Centered perspective with the waterfall as the focal point, leading the eye toward the tranquil pool.",
+      "camera": "Bird's eye",
+      "dominant_palette": "Deep blues, silver accents, and midnight purples",
+      "couple_action": "The couple sits on a mossy rock, dipping their toes in the pool while stargazing.",
+      "must_show": [
+        "Waterfall",
+        "Star reflections",
+        "Mossy rock"
+      ],
+      "avoid": [
+        "Modern boats"
+      ]
+    }
+  ]
+}

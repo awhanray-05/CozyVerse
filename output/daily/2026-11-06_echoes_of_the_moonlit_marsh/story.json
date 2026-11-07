@@ -1,0 +1,77 @@
+{
+  "theme": "Echoes of the Moonlit Marsh",
+  "question": "Which silver whisper will you chase through the night?",
+  "intro_environment": "A wide, misty marsh bathed in moonlight, with silver reeds, glimmering lily pads, and distant silhouettes of glowing trees, the sky a deep indigo sprinkled with stars.",
+  "intro_camera": "Wide sweeping panorama from a low angle, horizon line slightly above the couple, capturing the expanse of marsh and moon.",
+  "intro_couple_action": "The couple strolls along a narrow, winding path of glowing stones, eyes wide, map in hand, whispering plans.",
+  "choices": [
+    {
+      "title": "Luminous Lilypad Archipelago",
+      "description": "A network of giant, bioluminescent lily pads floating over a silver misty marsh, connected by translucent bridges.",
+      "scene_type": "Floating island",
+      "composition": "Lateral sweeping line of lily pads with a single archway leading to a central glowing pavilion.",
+      "camera": "Low-angle close-up, slightly tilted to emphasize the height of the lily pads.",
+      "dominant_palette": "Soft teal, pale silver, moonlit lavender",
+      "couple_action": "The couple stands on a translucent bridge, one holding a lantern, the other pointing to the distant pavilion.",
+      "must_show": [
+        "Bioluminescent lily pads",
+        "Translucent bridge",
+        "Moonlit pavilion"
+      ],
+      "avoid": [
+        "Snow"
+      ]
+    },
+    {
+      "title": "Fungal Glow Cavern",
+      "description": "A vast underground cavern illuminated by towering mushroom bioluminescence, dripping stalactites.",
+      "scene_type": "Underground cavern",
+      "composition": "Vertical depth with a central column of glowing mushrooms, leading to a lower cavern floor.",
+      "camera": "High-angle, wide lens capturing depth.",
+      "dominant_palette": "Deep forest green, amber glow, muted gray",
+      "couple_action": "The couple kneels at a mossy ledge, one holding a torch, the other sketching the fungi.",
+      "must_show": [
+        "Glowing mushrooms",
+        "Stalactites",
+        "Mossy ledge"
+      ],
+      "avoid": [
+        "Bright neon"
+      ]
+    },
+    {
+      "title": "Moonlit Tidefall",
+      "description": "A dramatic cliff overlooking moonlit tide pools, with waves crashing against jagged rocks.",
+      "scene_type": "Coastal cliff",
+      "composition": "Foreground cliff ledge, middle ground tide pools, background moonlit sea.",
+      "camera": "Wide shot from cliff edge, horizon line at the moon.",
+      "dominant_palette": "Deep navy, silver, seafoam green",
+      "couple_action": "The couple stands on the ledge, one pointing at the waves, the other taking a photo.",
+      "must_show": [
+        "Jagged rocks",
+        "Tide pools",
+        "Moonlit sea"
+      ],
+      "avoid": [
+        "Desert sand"
+      ]
+    },
+    {
+      "title": "Sundown Mirage Oasis",
+      "description": "A shimmering desert oasis under a silver moon, with crystal-clear water and dunes.",
+      "scene_type": "Desert oasis",
+      "composition": "Central oasis pool with surrounding dunes, a lone palm tree.",
+      "camera": "Medium shot from above, slightly angled, capturing the pool reflection.",
+      "dominant_palette": "Dusty gold, twilight blue, emerald green",
+      "couple_action": "The couple sits on a dune, sipping water, watching the moonlit reflection.",
+      "must_show": [
+        "Crystal-clear pool",
+        "Sand dunes",
+        "Palm tree"
+      ],
+      "avoid": [
+        "Snow"
+      ]
+    }
+  ]
+}

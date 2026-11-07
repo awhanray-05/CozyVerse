@@ -1,0 +1,77 @@
+{
+  "theme": "Celestial Harvest",
+  "question": "Which starlit orchard will you harvest your heart's desire?",
+  "intro_environment": "A sweeping vista of drifting celestial orchards, nebula clouds, and starlit cliffs, with a tiny couple exploring in the distance.",
+  "intro_camera": "Panoramic wide camera",
+  "intro_couple_action": "The couple hovers on a small cloud, hand in hand, gazing at the luminous horizon",
+  "choices": [
+    {
+      "title": "Nebula Orchard",
+      "description": "Floating islands studded with luminous vines and crystal treehouses, set against a violet nebula sky.",
+      "scene_type": "Treehouse",
+      "composition": "Clustered treehouses on floating islands, vines draped over edges, with a distant starfield.",
+      "camera": "Low-angle sweeping shot from below, capturing the floating islands and the couple climbing a vine.",
+      "dominant_palette": "Deep violet, teal, and silver starlight",
+      "couple_action": "The couple gently climbs a vine between two treehouses, lanterns bobbing beside them",
+      "must_show": [
+        "Floating islands",
+        "Luminous vines",
+        "Starlit canopy"
+      ],
+      "avoid": [
+        "Snow"
+      ]
+    },
+    {
+      "title": "Aurora Meadow",
+      "description": "A vast floating meadow of bioluminescent flowers and a glowing path, set amid pastel pinks and blues.",
+      "scene_type": "Open meadow",
+      "composition": "Wide meadow with a single glowing path winding through luminous flowers, horizon line low.",
+      "camera": "High-angle drone view slightly above the meadow, showing the couple strolling along the path.",
+      "dominant_palette": "Pastel pink, blue, and green",
+      "couple_action": "The couple strolls hand in hand along the glowing path, watching petals light up",
+      "must_show": [
+        "Floating meadow",
+        "Glowing path",
+        "Bioluminescent flowers"
+      ],
+      "avoid": [
+        "Urban buildings"
+      ]
+    },
+    {
+      "title": "Astral Observatory",
+      "description": "A tall crystalline tower with a glass dome, surrounded by floating stone, overlooking a starry expanse.",
+      "scene_type": "Observatory",
+      "composition": "Crystalline tower centered, glass dome reflecting stars, with floating stone platforms around.",
+      "camera": "Medium side shot focusing on the dome and the couple peering through a telescope",
+      "dominant_palette": "Silver, icy blue, pale gold",
+      "couple_action": "The couple peers through a telescope, pointing at a bright constellation",
+      "must_show": [
+        "Crystalline tower",
+        "Glass dome",
+        "Constellation backdrop"
+      ],
+      "avoid": [
+        "Desert sand"
+      ]
+    },
+    {
+      "title": "Aurora Cliffs",
+      "description": "Jagged cliffs overlooking a swirling nebula sea, a small lantern drifting above the horizon.",
+      "scene_type": "Coastal cliff",
+      "composition": "Jagged cliffs at the foreground, nebula sea below, comet streaking across the sky.",
+      "camera": "Wide shot from cliff edge capturing horizon and comet",
+      "dominant_palette": "Deep indigo, emerald green, amber glow",
+      "couple_action": "The couple stands on the cliff edge, watching a comet streak across the nebula sea",
+      "must_show": [
+        "Jagged cliffs",
+        "Nebula sea",
+        "Comet streak"
+      ],
+      "avoid": [
+        "Farms"
+      ]
+    }
+  ]
+}

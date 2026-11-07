@@ -1,0 +1,81 @@
+{
+  "theme": "Ember Veil Odyssey",
+  "question": "Which embered path will you tread?",
+  "intro_environment": "A vast, twilight expanse of ember-tinged hills, a river of molten silver winding through a forest of glowing shrubs, distant jagged peaks radiating warm amber, and a sky streaked with gold and crimson. The world feels alive with crackling embers and soft, flickering light.",
+  "intro_camera": "Wide landscape camera, capturing the full breadth of the embered world with a slight tilt to emphasize depth.",
+  "intro_couple_action": "A small couple, barely a silhouette, walking along a shimmering path of fireflies, their footsteps leaving tiny sparks, their heads tilted toward the horizon.",
+  "choices": [
+    {
+      "title": "Crimson Grove",
+      "description": "A dense forest where every leaf glows a deep crimson, and vines pulse with embered light. The ground is littered with glowing moss and small fireflies.",
+      "scene_type": "Dense forest",
+      "composition": "Diagonal sweep from the foreground vines to the distant glowing canopy.",
+      "camera": "Low angle, slightly tilted to capture the towering embered trees.",
+      "dominant_palette": "Deep reds, burgundy, dark charcoal with bright ember highlights.",
+      "couple_action": "The couple crouches to pick a glowing ember flower, their faces illuminated by its glow.",
+      "must_show": [
+        "Crimson leaves",
+        "embered vines",
+        "firefly glow"
+      ],
+      "avoid": [
+        "Generic trees",
+        "green foliage"
+      ]
+    },
+    {
+      "title": "Amber Cavern",
+      "description": "A sprawling underground cavern lit by amber crystals that refract light into a golden halo. Stalactites and stalagmites glow softly, and streams of molten gold trickle down the walls.",
+      "scene_type": "Underground cavern",
+      "composition": "Symmetrical tunnel view with a central light source casting reflections.",
+      "camera": "Wide-angle interior shot, slightly above eye level to show cavern depth.",
+      "dominant_palette": "Amber golds, warm ochre, shadowy grays.",
+      "couple_action": "The couple explores a crystal chamber, one holds a crystal in hand while the other maps the interior with a torch.",
+      "must_show": [
+        "amber crystals",
+        "molten gold streams",
+        "stalagmites"
+      ],
+      "avoid": [
+        "Ice formations",
+        "blue lighting"
+      ]
+    },
+    {
+      "title": "Molten Falls",
+      "description": "A cascading waterfall of flowing lava plunges into a churning pool of molten rock, surrounded by charred cliffs and drifting smoke.",
+      "scene_type": "Waterfall",
+      "composition": "Vertical composition emphasizing the height of the lava fall, with a foreground of ash.",
+      "camera": "High angle bird's eye, capturing the full scale of the falls and surrounding terrain.",
+      "dominant_palette": "Bright orange, molten red, ash gray, and smoky black.",
+      "couple_action": "The couple stands at the base of the falls, one with a shield of heat-resistant stone, the other with a torch reflecting off the molten surface.",
+      "must_show": [
+        "lava waterfall",
+        "charred cliffs",
+        "steam haze"
+      ],
+      "avoid": [
+        "freshwater",
+        "blue colors"
+      ]
+    },
+    {
+      "title": "Saffron Peak",
+      "description": "A towering mountain peak bathed in the warm glow of a sunset, its slopes covered in saffron-colored cliffs and golden lichens, with a faint aurora of embered light swirling above.",
+      "scene_type": "Mountain summit",
+      "composition": "Frontal view with a sweeping horizon of the peak and distant embered valleys.",
+      "camera": "Wide landscape shot from the base looking up, emphasizing the peak's height.",
+      "dominant_palette": "Saffron gold, warm ochre, deep blue twilight, ember orange.",
+      "couple_action": "The couple climbs a rocky ledge, one pointing toward the aurora, the other taking a photo with a torch.",
+      "must_show": [
+        "saffron cliffs",
+        "golden lichens",
+        "ember aurora"
+      ],
+      "avoid": [
+        "snow",
+        "icy features"
+      ]
+    }
+  ]
+}

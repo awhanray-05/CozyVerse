@@ -1,0 +1,77 @@
+{
+  "theme": "Whispering Winds",
+  "question": "Which breeze will carry your heart to adventure?",
+  "intro_environment": "A sweeping vista of the Whispering Winds, a vast expanse of rolling dunes, wind-sculpted cliffs, and a distant horizon where the sky meets the earth in swirling ribbons of airy light.",
+  "intro_camera": "Wide landscape camera, slightly low angle to capture the sweeping horizon and the subtle movement of the wind.",
+  "intro_couple_action": "A small, nimble couple walks along a narrow ridge, trailing a softly glowing lantern, listening to the wind's whispers as they explore the world.",
+  "choices": [
+    {
+      "title": "Mist Veil Lagoon",
+      "description": "A serene lagoon shrouded in morning mist, with lily pads and a solitary stone bridge.",
+      "scene_type": "Open lake",
+      "composition": "Central composition with a diagonal path leading into depth.",
+      "camera": "Low angle, slightly zoomed to emphasize water reflection.",
+      "dominant_palette": "Cool blues and soft greens with silver mist.",
+      "couple_action": "The couple gently floats a paper boat across the water.",
+      "must_show": [
+        "Mist-covered shoreline",
+        "Stone bridge",
+        "Lily pads"
+      ],
+      "avoid": [
+        "Bright sun glare"
+      ]
+    },
+    {
+      "title": "Starlit Grove",
+      "description": "A luminous forest where bioluminescent fungi glow along ancient trunks.",
+      "scene_type": "Dense forest",
+      "composition": "Vertical composition with towering trees framing the couple.",
+      "camera": "Medium shot, slightly elevated to capture canopy.",
+      "dominant_palette": "Deep purples, emerald greens, and phosphorescent teal.",
+      "couple_action": "The couple climbs a tree to observe glowing spores.",
+      "must_show": [
+        "Bioluminescent fungi",
+        "Ancient bark",
+        "Starry canopy"
+      ],
+      "avoid": [
+        "Artificial light sources"
+      ]
+    },
+    {
+      "title": "Nimbus Overlook",
+      "description": "A lofty treehouse perched on a colossal floating cloud, connected by rope bridges.",
+      "scene_type": "Treehouse",
+      "composition": "Dynamic composition with overlapping layers of clouds and branches.",
+      "camera": "High angle, slightly wide to show the treehouse and surrounding sky.",
+      "dominant_palette": "Soft pastels: blush pink, lavender, and sky blue.",
+      "couple_action": "The couple swings on a rope bridge, laughing.",
+      "must_show": [
+        "Floating cloud",
+        "Rope bridge",
+        "Treehouse platform"
+      ],
+      "avoid": [
+        "Grounded perspective"
+      ]
+    },
+    {
+      "title": "Echoing Caves",
+      "description": "A vast cavern with crystal formations that echo when wind passes.",
+      "scene_type": "Underground cavern",
+      "composition": "Symmetrical composition with a central stalactite.",
+      "camera": "Wide shot, slightly tilted to capture cavern depth.",
+      "dominant_palette": "Muted grays, icy blues, and glinting silver.",
+      "couple_action": "The couple explores a crystal tunnel, holding lanterns.",
+      "must_show": [
+        "Crystal stalactites",
+        "Echoing chambers",
+        "Lantern glow"
+      ],
+      "avoid": [
+        "Bright artificial lights"
+      ]
+    }
+  ]
+}
